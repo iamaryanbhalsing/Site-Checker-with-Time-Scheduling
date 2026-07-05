@@ -30,4 +30,28 @@ A powerful, easy-to-use website and server monitoring tool with GUI, email alert
    ```bash
    pip install requests
    ```
-   
+
+3. **Run the application:**
+   ```bash
+   python site_checker_gui.py
+   ```
+
+## Usage
+
+Adding Sites
+
+Enter a URL (e.g. https://example.com or google.com)
+Check "Use Ping" for server reachability testing
+Click Add Site
+
+Starting Monitoring
+
+Set check interval (minutes)
+Configure email notifications (optional)
+Click Start Monitoring
+
+Email Setup (Recommended)
+
+Use Gmail App Password (not your regular password)
+Enable 2-Factor Authentication on your Google account
+Generate App Password at: Google Account → Security → App Passwords
