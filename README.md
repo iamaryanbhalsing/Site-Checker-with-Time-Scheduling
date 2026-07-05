@@ -24,3 +24,10 @@ A powerful, easy-to-use website and server monitoring tool with GUI, email alert
    ```bash
    git clone https://github.com/iamaryanbhalsing/Site-Checker-with-Time-Scheduling
    cd site-checker
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install requests
+   ```
+   
